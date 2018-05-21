@@ -11,3 +11,4 @@ I hold an undergraduate degree in Mathematics and Physics and a master's degree 
 ### Contact me
 
 [remiroantonio@gmail.com](mailto:remiroantonio@gmail.com)
+[Linkedin](https://www.linkedin.com/in/antoniora/)
