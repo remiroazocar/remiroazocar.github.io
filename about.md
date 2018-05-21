@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a first year PhD student at the [University College London](https://www.ucl.ac.uk/) [Department of Statistics] (https://www.ucl.ac.uk/statistics/), where I work with [Gianluca Baio] (http://www.statistica.it/gianluca/).
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[remiroantonio@gmail.com](mailto:remiroantonio@gmail.com)
