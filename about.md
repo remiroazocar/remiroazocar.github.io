@@ -14,10 +14,10 @@ permalink: /about/
 
 ### Teaching
 
-I serve as a postgraduate teaching assistant for the following modules:
+I am a postgraduate teaching assistant for the following modules:
 
-* Applied Regression (2018/19; Department of Statistics, London School of Economics)
-* Introductory Statistical Methods and Computing (2018/19; Department of Statistics, University College London)
+* ST211 Applied Regression 2018/19 (Department of Statistics, London School of Economics)
+* STAT0021 Introductory Statistical Methods and Computing 2018/19 (Department of Statistics, University College London)
 
 ###  Funding
 
