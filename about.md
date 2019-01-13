@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues.</p>
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine.</p>
 
 ### Teaching
 
