@@ -10,7 +10,19 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I also serve as a consultant to the pharmaceutical industry on statistical issues.</p> 
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues.</p>
+
+### Teaching
+
+I serve as a postgraduate teaching assistant for the following modules:
+
+* Applied Regression (2018/19; Department of Statistics, London School of Economics)
+* Introductory Statistical Methods and Computing (2018/19; Department of Statistics, University College London)
+
+###  Funding
+
+PGTA and Doctoral researcher in the Department of Statistical Science at University College London (UCL), and a lecturer in Mathematics - ESCP Europe.
+
 
 ### Contact me
 
