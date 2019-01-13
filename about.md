@@ -14,7 +14,7 @@ permalink: /about/
 
 ### Teaching
 
-<p align="justify">During the 2018/19 academic year, I am a postgraduate teaching assistant for the following modules:</p>
+<p align="justify">During the 2018/19 academic year, I am a postgraduate teaching assistant for the modules:</p>
 
 * [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
 * STAT0021 Introductory Statistical Methods and Computing (UCL)
