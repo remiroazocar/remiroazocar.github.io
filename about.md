@@ -14,14 +14,13 @@ permalink: /about/
 
 ### Teaching
 
-I am a postgraduate teaching assistant for the following modules:
+During the 2018/19 academic year, I am a postgraduate teaching assistant for the following modules:
 
-* [ST211 Applied Regression 2018/19](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
-* STAT0021 Introductory Statistical Methods and Computing 2018/19 (University College London)
+* [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
+* STAT0021 Introductory Statistical Methods and Computing (UCL)
 
 ###  Funding
 
-PGTA and Doctoral researcher in the Department of Statistical Science at University College London (UCL), and a lecturer in Mathematics - ESCP Europe.
 
 
 ### Contact me
