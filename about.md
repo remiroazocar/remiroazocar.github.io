@@ -14,13 +14,14 @@ permalink: /about/
 
 ### Contact me
 
-University College London
-Department of Statistical Science 
-1-19, Torrington Place
-London, WC1E 6BT
-United Kingdom
+University College London<br/>
+Department of Statistical Science<br/>
+1-19, Torrington Place<br/>
+London, WC1E 6BT<br/>
+United Kingdom<br/>
 
-email: [remiroantonio@gmail.com](mailto:remiroantonio@gmail.com) (personal), [antonio.remiro.16@ucl.ac.uk](mailto:antonio.remiro.16@ucl.ac.uk) (university)
+[remiroantonio@gmail.com](mailto:remiroantonio@gmail.com)<br/>
+[antonio.remiro.16@ucl.ac.uk](mailto:antonio.remiro.16@ucl.ac.uk)<br/>
 
 
 
