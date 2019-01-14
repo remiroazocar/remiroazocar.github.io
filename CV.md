@@ -35,6 +35,13 @@ __Graduate Teaching Assistant, University College London__
 `2016`
 __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
+### Theses
+
+`2018`
+Transition probability estimation from partitioned survival curves, University College London. Advised by Dr. Gianluca Baio and Dr. Anna Heath. 
+
+`2017`
+
 
 ### Honors and awards
 
