@@ -32,7 +32,7 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
 ### Honors and awards
 
-* Full 4-year (1+3) MRes+PhD scholarship from the [EPSRC Centre for Doctoral Training in Financial Computing and Analytics](https://financialcomputing.org/). 
+* Full 4-year (1+3) MRes+PhD scholarship from the [EPSRC Centre for Doctoral Training in Financial Computing and Analytics](https://financialcomputing.org/), a joint collaboration between UCL, LSE and Imperial College London. 
 
 
 
