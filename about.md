@@ -12,7 +12,7 @@ permalink: /about/
 
 <p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine.
 
-*Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness modelling, multi-state modelling, Bayesian statistics, machine learning, oncology, causal inference.*</p>
+<i>Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness modelling, multi-state modelling, Bayesian statistics, machine learning, oncology</i></p>
 
 
 ### Teaching
