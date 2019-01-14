@@ -10,14 +10,14 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine.<br>
-
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine.<br/>
+<br/>
 <i>Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness modelling, multi-state modelling, Bayesian statistics, machine learning, oncology</i></p>
 
 
 ### Teaching
 
-<p align="justify">During the 2018/19 academic year, I am a postgraduate teaching assistant for the following modules:</p>
+<p align="justify">During the 2018/19 academic year, I am a graduate teaching assistant for the following modules:</p>
 
 * [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
 * STAT0021 Introductory Statistical Methods and Computing (UCL)
