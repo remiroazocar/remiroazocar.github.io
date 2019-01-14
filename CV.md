@@ -8,6 +8,9 @@ In addition to the markdown version of my CV, a more detailed PDF version is ava
 
 ### Education
 
+`2018-present`
+__PhD Statistical Science, University College London__
+
 `2017-18`
 __MRes Financial Computing, University College London__
 
@@ -35,13 +38,12 @@ __Graduate Teaching Assistant, University College London__
 `2016`
 __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
-### Theses
+### Dissertations
 
 `2018`
 Transition probability estimation from partitioned survival curves, University College London. Advised by Dr. Gianluca Baio and Dr. Anna Heath. 
 
 `2017`
-
 
 ### Honors and awards
 
