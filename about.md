@@ -21,7 +21,7 @@ permalink: /about/
 
 ### Personal
 
-<p align="justify">When not busy crunching data, I enjoy a game of basketball, <a href="https://www.youtube.com/watch?v=dKoR4lVHHUU">playing the piano</a> and producing <a href="https://soundcloud.com/lovetriangle/remirovic-boyhood-demo">hip-hop instrumentals</a>.</p>
+<p align="justify">When not busy crunching data, I enjoy playing basketball, <a href="https://www.youtube.com/watch?v=dKoR4lVHHUU">piano improvisation</a> and producing <a href="https://soundcloud.com/lovetriangle/remirovic-boyhood-demo">hip-hop instrumentals</a>.</p>
 
 ### Contact me
 
