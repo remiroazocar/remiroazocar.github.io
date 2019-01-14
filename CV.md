@@ -26,14 +26,14 @@ __Director, Osasun Quantitative Healthcare__
 `2018-present`
 __Statistical Consultant, IQVIA__
 
-`2017`
+`2016`
 __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
 
 ### Honors and awards
 
-* Full 4-year (1+3) MRes+PhD scholarship from the [EPSRC Centre for Doctoral Training in Financial Computing and Analytics](https://financialcomputing.org/), a joint collaboration between UCL, LSE and Imperial College London. 
-
+* 2017-2021: Full 4-year (1+3) MRes+PhD scholarship from the [EPSRC Centre for Doctoral Training in Financial Computing and Analytics](https://financialcomputing.org/), a joint collaboration between UCL, LSE and Imperial College London. Read about it [here](https://www.ft.com/content/0664cd92-6277-11e1-872e-00144feabdc0#comments-anchor).
+* 2016: 
 
 
 
