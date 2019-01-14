@@ -19,6 +19,10 @@ permalink: /about/
 * [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
 * STAT0021 Introductory Statistical Methods and Computing (UCL)
 
+### Personal
+
+<p align="justify">When not busy crunching data, I enjoy a game of basketball, playing the piano and producing <a href="https://soundcloud.com/lovetriangle/remirovic-boyhood-demo">hip-hop instrumentals</a>.</p>
+
 ### Contact me
 
 University College London<br/>
