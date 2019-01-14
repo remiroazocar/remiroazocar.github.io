@@ -27,4 +27,4 @@ __Director, Osasun Quantitative Healthcare__
 __Statistical Consultant, IQVIA__
 
 `2017`
-__Postgraduate Research Intern,__Imperial College London, Royal Botanic Gardens Kew
+__Research Intern, Imperial College London, Royal Botanic Gardens Kew__
