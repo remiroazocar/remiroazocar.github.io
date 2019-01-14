@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-In addition to the markdown version of my CV, a PDF version is available here (add link).
+In addition to the markdown version of my CV, a more detailed PDF version is available here (add link).
 
 ### Education
 
@@ -28,3 +28,15 @@ __Statistical Consultant, IQVIA__
 
 `2017`
 __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
+
+
+### Honors and awards
+
+Full 4-year MRes+PhD(1+3) EPSRC scholarship from the Centre for Doctoral Training on Financial Computing and Analytics. 
+
+
+
+
+
+
+
