@@ -46,7 +46,7 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
 Most experienced: R, Python, Stan, LaTeX, Excel/Access (VBA)
 
-Working knowledge: C++, Stata, SPSS, BUGS/JAGS, MATLAB, TensorFlow
+Working knowledge: C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, TensorFlow
 
 *Languages*
 
