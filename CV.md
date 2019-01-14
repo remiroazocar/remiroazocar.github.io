@@ -8,12 +8,23 @@ In addition to the markdown version of my CV, a PDF version is available here (a
 
 ### Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-18`
+__MRes Financial Computing, University College London__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-17`
+__MSc Machine Learning, University College London__
+
+`2013-16`
+__BSc Mathematics and Physics, University of Bath__
 
 
+### Employment
 
+`2018-present`
+__Director, Osasun Quantitative Healthcare__
 
+`2018-present`
+__Statistical Consultant, IQVIA__
+
+`2017`
+__Research Intern,__Imperial College London, Royal Botanic Gardens (Kew)
