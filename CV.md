@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-In addition to the markdown version of my CV, a more detailed PDF version is available [here](../antonio_remiro_azocar_CV.pdf).
+In addition to the markdown version of my CV, a more detailed PDF version is available [here](https://remiroazocar.github.io/antonio_remiro_azocar_CV.pdf).
 
 ### Education
 
