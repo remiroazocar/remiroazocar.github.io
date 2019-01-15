@@ -55,7 +55,7 @@ Transition probability estimation from partitioned survival curves, University C
 
 Most experienced: R, Python, Stan, LaTeX, Excel/Access (VBA)
 
-Working knowledge: C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, TensorFlow
+Working knowledge: Git, C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, TensorFlow
 
 *Languages*
 
@@ -64,7 +64,3 @@ Spanish (native), English (bilingual), French (advanced), Portuguese (basic)
 *Activities*
 
 <p align="justify">I am a classically trained pianist with a <a href="http://katarinagurska.com/en/curso-of/ensenanza-profesional/">professional intermediate-level qualification in piano performance</a>.</p>
-
-
-
-
