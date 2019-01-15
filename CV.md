@@ -41,9 +41,10 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 ### Dissertations
 
 `2018`
-Transition probability estimation from partitioned survival curves, University College London. Advised by Dr. Gianluca Baio and Dr. Anna Heath. 
+*Transition probability estimation from partitioned survival curves*, Department of Statistics, UCL. Advised by Prof. Gianluca Baio and Dr. Anna Heath. 
 
 `2017`
+*Hierarchical Bayesian modelling of decision-making tasks in computational psychiatry*, Gatsby Unit, UCL. Advised by Dr. Oliver J. Robinson and Prof. Peter Dayan.
 
 ### Honors and awards
 
