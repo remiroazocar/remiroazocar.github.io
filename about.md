@@ -24,7 +24,7 @@ permalink: /about/
 
 ### Personal
 
-<p align="justify">When not busy crunching data, I enjoy playing basketball and poker. I am also an electronic music <a href="https://www.soundcloud.com/lovetriangle">aficionado</a> and enjoy producing/DJing. </p>
+<p align="justify">When not busy crunching data, I enjoy playing basketball and poker. I am also an electronic music aficionado and enjoy <a href="https://www.soundcloud.com/lovetriangle">producing/DJing</a>. </p>
 
 ### Contact me
 
