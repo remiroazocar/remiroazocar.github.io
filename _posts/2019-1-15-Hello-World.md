@@ -1,6 +1,6 @@
 ---
 layout: post
-title: talk at UCLM, Albacete
+title: talk at Jornadas AES, Albacete
 ---
 
 
