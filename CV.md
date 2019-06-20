@@ -54,14 +54,10 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
 *Computing*
 
-Most experienced: R, Python, Stan, LaTeX, Excel/Access (VBA)
+Most experienced: R, Python, Stan, LaTeX, Git, TensorFlow, Excel
 
-Working knowledge: Git, C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, TensorFlow
+Working knowledge: C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, VBA
 
 *Languages*
 
 Spanish (native), English (bilingual), French (advanced), Portuguese (basic)
-
-*Activities*
-
-<p align="justify">I am a classically trained pianist with a <a href="http://katarinagurska.com/en/curso-of/ensenanza-profesional/">professional intermediate-level qualification in piano performance</a>.</p>
