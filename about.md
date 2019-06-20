@@ -10,10 +10,17 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. I am also active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine.<br/>
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. <br/>
 <br/>
 <i>Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness modelling, multi-state modelling, Bayesian statistics, machine learning, oncology</i></p>
 
+#### Talks and Presentations
+
+* Predictive-adjusted indirect comparison (PAIC). Invited for <a href="http://www.aes.es/jornadas/en/">Jornadas AES 2019</a> (Castilla-La Mancha). Slides are <a href="https://remiroazocar.github.io/jornadas_presentation_final.pdf">here</a>.
+
+### Consultancy
+
+<p align="justify">I am active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine. I hold my own limited company but also work part-time for  <a href="https://www.iqvia.com/">IQVIA</a>, where I provide statistical support for submissions to HTA authorities and other clinical projects.</p>
 
 ### Teaching
 
