@@ -10,9 +10,9 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparisons and survival analysis. <br/>
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparison and survival analysis. <br/>
 <br/>
-<i>Interests: Biostatistics, survival analysis, indirect treatment comparisn, cost-effectiveness analysis, Bayesian statistics, machine learning</i></p>
+<i>Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness analysis, Bayesian statistics, machine learning</i></p>
 
 #### Talks and Presentations
 
@@ -24,7 +24,7 @@ permalink: /about/
 
 ### Teaching
 
-<p align="justify">During the 2018/19 academic year, I am a graduate teaching assistant for the following modules:</p>
+<p align="justify">I am a graduate teaching assistant for the following modules:</p>
 
 * [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
 * STAT0021 Introductory Statistical Methods and Computing (UCL)
