@@ -6,13 +6,13 @@ permalink: /about/
 
 ### Bio
 
-<p align="justify">I am a first year PhD student at the <a href="https://www.ucl.ac.uk/statistics/">Department of Statistics, University College London</a>, where I work with <a href="http://www.statistica.it/gianluca/">Professor Gianluca Baio</a> in the <a href="https://www.ucl.ac.uk/statistics/research/statistics-health-economics">Statistics for Health Economic Evaluation</a> research group. Prior to this, I completed master's degrees in <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/">Machine Learning</a> (2017) and <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/financial-computing-mres-mphil-phd">Financial Computing</a> (2018) within the <a href="http://www.cs.ucl.ac.uk">Department of Computer Science, University College London</a>. I hold an undergraduate degree in Mathematics and Physics from the <a href="https://www.bath.ac.uk/">University of Bath</a> (2016). For further details, please see my <a href="https://remiroazocar.github.io/cv/">CV</a>.</p> 
+<p align="justify">I am a PhD student at the <a href="https://www.ucl.ac.uk/statistics/">Department of Statistics, University College London</a>, where I work with <a href="http://www.statistica.it/gianluca/">Professor Gianluca Baio</a> in the <a href="https://www.ucl.ac.uk/statistics/research/statistics-health-economics">Statistics for Health Economic Evaluation</a> research group. Prior to this, I completed master's degrees in <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/">Machine Learning</a> (2017) and <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/financial-computing-mres-mphil-phd">Financial Computing</a> (2018) within the <a href="http://www.cs.ucl.ac.uk">Department of Computer Science, University College London</a>. I hold an undergraduate degree in Mathematics and Physics from the <a href="https://www.bath.ac.uk/">University of Bath</a> (2016). For further details, please see my <a href="https://remiroazocar.github.io/cv/">CV</a>.</p> 
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on an assortment of methodological and applied problems ranging over survival analysis, indirect treatment comparison, multi-state modelling and Bayesian data analysis. <br/>
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparisons and survival analysis. <br/>
 <br/>
-<i>Interests: Biostatistics, survival analysis, indirect treatment comparison, cost-effectiveness modelling, multi-state modelling, Bayesian statistics, machine learning, oncology</i></p>
+<i>Interests: Biostatistics, survival analysis, indirect treatment comparisn, cost-effectiveness analysis, Bayesian statistics, machine learning</i></p>
 
 #### Talks and Presentations
 
@@ -20,7 +20,7 @@ permalink: /about/
 
 ### Consultancy
 
-<p align="justify">I am active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine. I hold my own limited company but also work part-time for  <a href="https://www.iqvia.com/">IQVIA</a>, where I provide statistical support for submissions to HTA authorities and other clinical projects.</p>
+<p align="justify">I am active as a consultant to the pharmaceutical industry on statistical issues arising in health technology appraisal and evidence based medicine. I hold my own limited company but also work part-time for <a href="https://www.iqvia.com/">IQVIA</a>, where I provide statistical support for submissions to HTA authorities and other clinical projects.</p>
 
 ### Teaching
 
@@ -28,10 +28,6 @@ permalink: /about/
 
 * [ST211 Applied Regression](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2018_ST211.htm) (London School of Economics)
 * STAT0021 Introductory Statistical Methods and Computing (UCL)
-
-### Personal
-
-<p align="justify">When not busy crunching data, I enjoy playing basketball and poker. I am also an electronic music aficionado and enjoy <a href="https://www.soundcloud.com/lovetriangle">producing/DJing</a>. </p>
 
 ### Contact me
 
