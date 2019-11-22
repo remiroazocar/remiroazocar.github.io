@@ -16,7 +16,7 @@ permalink: /about/
 
 #### Talks and Presentations
 
-* Predictive-adjusted indirect comparison (PAIC). Talks at <a href="https://remiroazocar.github.io/ISPOR_paic_remiro.pdf">ISPOR Europe 2019</a> (Copenhagen) and <a href="https://remiroazocar.github.io/jornadas_presentation_final.pdf">Jornadas AES 2019</a> (Castilla-La Mancha). 
+* Predictive-adjusted indirect comparison (PAIC). Talks at <a href="https://remiroazocar.github.io/PAIC_ISPOR_EUROPE.pdf">ISPOR Europe 2019</a> (Copenhagen) and <a href="https://remiroazocar.github.io/jornadas_presentation_final.pdf">Jornadas AES 2019</a> (Castilla-La Mancha). 
 
 ### Consultancy
 
