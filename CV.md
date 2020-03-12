@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-In addition to the markdown version of my CV, a more detailed PDF version is available [here](https://remiroazocar.github.io/antonio_remiro_azocar_CV.pdf).
-
 ### Education
 
 `2018-present`
@@ -22,6 +20,9 @@ __BSc Mathematics and Physics, University of Bath__
 
 
 ### Employment
+
+`2019-present`
+__Statistical Consultant, ICON plc__
 
 `2018-present`
 __Director, Osasun Quantitative Healthcare__
@@ -44,7 +45,7 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 *Transition probability estimation from partitioned survival curves*, Department of Statistics, UCL. Advised by Prof. Gianluca Baio and Dr. Anna Heath. 
 
 `2017`
-*Hierarchical Bayesian modelling of decision-making tasks in computational psychiatry*, Gatsby Unit, UCL. Advised by Dr. Oliver J. Robinson and Prof. Peter Dayan.
+*Hierarchical Bayesian modelling of decision-making tasks in computational psychiatry*, Gatsby Computational Neuroscience Unit, UCL. Advised by Dr. Oliver J. Robinson and Prof. Peter Dayan.
 
 ### Honors and awards
 
@@ -54,9 +55,9 @@ __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
 
 *Computing*
 
-Most experienced: R, Python, Stan, LaTeX, Git, TensorFlow, Excel
+Most experienced: R (dplyr, RStudio), Python (NumPy, Pandas), Stan, Git, VBA, SQL, LaTeX
 
-Working knowledge: C/C++, Stata, SPSS, BUGS/JAGS, MATLAB, VBA
+Working knowledge: C/C++, SAS
 
 *Languages*
 
