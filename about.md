@@ -16,8 +16,8 @@ permalink: /about/
 
 #### Talks and Presentations
 
-* Predictive-adjusted indirect comparison (PAIC): a novel method for population adjustment with limited access to patient-level data. <a href="https://remiroazocar.github.io/PAIC_ISPOR_EUROPE.pdf">Poster</a> presented at <a href="https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-europe-2019">ISPOR Europe 2019</a> (Copenhagen). Related talks and conference paper presented at <a href="http://www.aes.es/Jornadas2019/es/">Jornadas AES 2019</a> (Castilla-La Mancha) and 
-<a href="https://hesg.org.uk/meetings/winter-2020-newcastle-university/">HESG 2020 Winter meeting</a> (Newcastle, UK). 
+* Predictive-adjusted indirect comparison (PAIC): a novel method for population adjustment with limited access to patient-level data. <a href="https://remiroazocar.github.io/PAIC_ISPOR_EUROPE.pdf">Poster</a> presented at <a href="https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-europe-2019">ISPOR Europe 2019</a> (Copenhagen). Related talk and conference paper presented at <a href="http://www.aes.es/Jornadas2019/es/">Jornadas AES 2019</a> (Castilla-La Mancha) and 
+<a href="https://hesg.org.uk/meetings/winter-2020-newcastle-university/">HESG 2020 Winter meeting</a> (Newcastle, UK), respectively. 
 
 ### Consultancy
 
