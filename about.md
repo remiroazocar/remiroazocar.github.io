@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparison and survival analysis. <br/>
+<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparison and survival analysis. More specifically, my current line of work involves the development of new methodologies for population adjustment with limited access to patient-level data. These methods are increasingly used to compare treatment outcomes across separate clinical trials when there are cross-trial differences in patients' baseline characteristics.<br/>
 <br/>
 <i>Interests: Biostatistics, survival analysis, indirect treatment comparison, population adjustment, Bayesian statistics, causal inference, health technology assessment, comparative effectiveness research.</i></p>
 
