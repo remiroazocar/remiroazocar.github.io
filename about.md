@@ -14,11 +14,6 @@ permalink: /about/
 <br/>
 <i>Interests: Biostatistics, survival analysis, indirect treatment comparison, population adjustment, Bayesian statistics, causal inference, health technology assessment, comparative effectiveness research.</i></p>
 
-#### Talks and Presentations
-
-* Predictive-adjusted indirect comparison (PAIC): a novel method for population adjustment with limited access to patient-level data. <a href="https://remiroazocar.github.io/PAIC_ISPOR_EUROPE.pdf">Poster</a> presented at <a href="https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-europe-2019">ISPOR Europe 2019</a> (Copenhagen). Related talk and conference paper presented at <a href="http://www.aes.es/Jornadas2019/es/">Jornadas AES 2019</a> (Castilla-La Mancha) and 
-<a href="https://hesg.org.uk/meetings/winter-2020-newcastle-university/">HESG 2020 Winter Meeting</a> (Newcastle, UK), respectively. 
-
 ### Consultancy
 
 <p align="justify">I am active as a consultant to the health care sector on statistical issues arising in health technology appraisal and evidence based medicine, predictive analytics, economic modelling and real-world evidence development. I hold my own limited company but have also worked with contract research organisations such as <a href="https://www.iqvia.com/">IQVIA</a> and <a href="https://www.iconplc.com/">ICON plc</a>, where I have provided statistical support for submissions to HTA authorities and other clinical projects.</p> 
