@@ -10,13 +10,13 @@ permalink: /about/
 
 ### Research
 
-<p align="justify">My research is on the interface between statistics and health economics and outcomes research. I am working on methodological and applied problems in indirect treatment comparison and survival analysis. More specifically, my current line of work involves the development of new methodologies for population adjustment with limited access to patient-level data. These methods are increasingly used to compare treatment outcomes across separate clinical trials when there are cross-trial differences in patients' baseline characteristics.<br/>
-<br/>
-<i>Interests: Biostatistics, survival analysis, indirect treatment comparison, population adjustment, Bayesian statistics, causal inference, health technology assessment, comparative effectiveness research.</i></p>
+<p align="justify">My research lies on the interface between statistics and health economics and outcomes research, involving both methodological and applied problems. More specifically, my primary research interest is the development of methodology to generalize or transport the results of randomized trials and observational studies to different target populations (in which no new studies can be performed). These methods are increasingly used to compare treatment outcomes across separate studies, with differences in patients' baseline characteristics. In health technology assessment, we must often overcome the additional burden of limited access to patient-level data. My current line of work also involves survival analysis and evidence synthesis methods to evaluate novel oncology drugs.</p>
+  
+<i>Interests: health technology assessment, causal inference, evidence synthesis, transportability/generalizability, biostatistics, survival analysis, indirect treatment comparisons, population adjustment, comparative effectiveness research.</i></p>
 
 ### Consultancy
 
-<p align="justify">I am active as a consultant to the health care sector on statistical issues arising in health technology appraisal and evidence based medicine, predictive analytics, economic modelling and real-world evidence development. I hold my own limited company but have also worked with contract research organisations such as <a href="https://www.iqvia.com/">IQVIA</a> and <a href="https://www.iconplc.com/">ICON plc</a>, where I have provided statistical support for submissions to HTA authorities and other clinical projects.</p> 
+<p align="justify">I am active as a consultant to the health care (both public and private) sector on statistical issues arising in health technology appraisal and evidence based medicine, predictive analytics, economic modelling and real-world evidence development. I have worked with contract research organisations such as <a href="https://www.iqvia.com/">IQVIA</a> and <a href="https://www.iconplc.com/">ICON plc</a>, where I have provided statistical support for submissions to HTA authorities and other clinical projects.</p> 
   
 ### Teaching
 
