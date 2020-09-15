@@ -21,23 +21,28 @@ __BSc Mathematics and Physics, University of Bath__
 
 ### Employment
 
-`2019-present`
+`2019-20`
 __Statistical Consultant, ICON plc__
 
-`2018-present`
-__Director, Osasun Quantitative Healthcare__
-
-`2018-present`
+`2018-20`
 __Statistical Consultant, IQVIA__
 
 `2018-present`
 __Graduate Teaching Assistant, London School of Economics__
 
-`2018-present`
+`2018-19`
 __Graduate Teaching Assistant, University College London__
 
 `2016`
 __Research Intern, Imperial College London, Royal Botanic Gardens Kew__
+
+### Papers
+
+`2020`
+
+Remiro-Azócar, A., Heath, A. and Baio, G., 2020. [Predictive-Adjusted Indirect Comparison: A Novel Method for Population Adjustment with Limited Access to Patient-Level Data](https://arxiv.org/abs/2008.05951). arXiv preprint arXiv:2008.05951.
+
+Remiro-Azócar, A., Heath, A. and Baio, G., 2020. [Methods for Population Adjustment with Limited Access to Individual Patient Data: A Review and Simulation Study](https://arxiv.org/abs/2004.14800). arXiv preprint arXiv:2004.14800.
 
 ### Dissertations
 
