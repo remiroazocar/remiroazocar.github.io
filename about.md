@@ -12,7 +12,7 @@ permalink: /about/
 
 <p align="justify">My research lies on the interface between statistics and health economics and outcomes research, involving both methodological and applied problems. More specifically, my primary research interest is the development of methodology to generalize or transport the results of randomized trials and observational studies to different target populations (in which no new studies can be performed). These methods are increasingly used to compare treatment outcomes across separate studies, with differences in patients' baseline characteristics. In health technology assessment, we must often overcome the additional burden of limited access to patient-level data. My current line of work also involves survival analysis and evidence synthesis methods to evaluate novel oncology drugs.</p>
   
-<i>Interests: health technology assessment, causal inference, evidence synthesis, transportability/generalizability, biostatistics, survival analysis, indirect treatment comparisons, population adjustment, comparative effectiveness research.</i></p>
+<i>Interests: health technology assessment, causal inference, evidence synthesis, transportability/generalizability, biostatistics, survival analysis, indirect treatment comparisons, population adjustment, comparative effectiveness research.</i>
 
 ### Consultancy
 
