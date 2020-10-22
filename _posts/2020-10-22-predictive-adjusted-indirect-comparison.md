@@ -28,4 +28,6 @@ e.g. where covariate overlap is poor and when sample sizes are small.</p>
 
 <p align="justify">PAIC is a timely addition which can be used where strong covariate imbalances lead to a marked loss of precision in MAIC.  PAIC and MAIC use different adjustment mechanisms and considering their results jointly may be helpful to evaluate the robustness of analyses. Even though PAIC has been developed in a very specific context, common in health technology assessment, where access to patient-level data is limited and an indirect comparison is required, its principles are applicable to estimate marginal or population-average treatment effects in any situation which requires generalizing or transporting the results of a randomized experiment to a specific target population. The generalization or transportability of marginal treatment effects across populations is an increasingly important research area in causal inference.</p> 
 
-![bias]({{site.baseurl}}/images/bias.png "Bias across all simulation scenarios."){:class="img-responsive"}
+![PAIC-dag]({{site.baseurl}}/images/PAIC_dag.png "A directed acyclic graph representing predictive-adjusted indirect comparison and accounting for its two main
+stages: (1) synthetic data generation; and (2) the analysis of synthetic datasets."){:class="img-responsive"}
+![PAIC-mse]({{site.baseurl}}/images/PAIC_mse.png "Mean square error across all simulation scenarios."){:class="img-responsive"}
