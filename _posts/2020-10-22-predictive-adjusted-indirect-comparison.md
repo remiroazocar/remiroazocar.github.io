@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Predictive-adjusted indirect comparison: regression adjustment for estimating population-average treatment effects
+title: Predictive-adjusted indirect comparison - regression adjustment for estimating population-average treatment effects
 ---
 
-<p align="justify">My paper, <a href="https://arxiv.org/abs/2008.05951"Predictive-Adjusted Indirect Comparison: A Novel Method for Population Adjustment with Limited Access to Patient-Level Data</a>, 
+<p align="justify">My paper, <a href="https://arxiv.org/abs/2008.05951">Predictive-Adjusted Indirect Comparison: A Novel Method for Population Adjustment with Limited Access to Patient-Level Data</a>, 
 co-authored with my PhD supervisors <a href="http://www.statistica.it/gianluca/">Gianluca Baio</a> and <a href="https://sites.google.com/site/annaheathstats/">Anna Heath</a>, 
 is up on arXiv.</p> 
 
