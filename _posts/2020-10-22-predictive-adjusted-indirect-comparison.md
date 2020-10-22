@@ -5,7 +5,7 @@ title: Predictive-adjusted indirect comparison
 
 <p align="justify">My paper, <a href="https://arxiv.org/abs/2008.05951">Predictive-Adjusted Indirect Comparison: A Novel Method for Population Adjustment with Limited Access to Patient-Level Data</a>, 
 co-authored with my PhD supervisors <a href="http://www.statistica.it/gianluca/">Gianluca Baio</a> and <a href="https://sites.google.com/site/annaheathstats/">Anna Heath</a>, 
-is up on arXiv.>In this article, we present a novel regression adjustment-based method, predictive-adjusted indirect comparison (PAIC), for population adjustment in indirect treatment comparisons. Population-adjusted indirect treatment comparisons such as matching-adjusted indirect comparison (MAIC) and simulated treatment comparison (STC) are 
+is up on arXiv. In this article, we present a novel regression adjustment-based method, predictive-adjusted indirect comparison (PAIC), for population adjustment in indirect treatment comparisons. Population-adjusted indirect treatment comparisons such as matching-adjusted indirect comparison (MAIC) and simulated treatment comparison (STC) are 
 increasingly used to compare treatments in health technology assessments. Such methods estimate treatment effects when there are differences in effect modifiers 
 across studies and when access to patient-level data is limited.</p> 
 
