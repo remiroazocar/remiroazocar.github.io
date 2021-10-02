@@ -23,12 +23,11 @@ footer-links:
   instagram:
   linkedin: antoniora
   pinterest:
-  rss: a # just type anything here for a working RSS icon
+  rss: # just type anything here for a working RSS icon
   twitter: remiroazocar
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  orcid: 0000-0002-2877-2315
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
