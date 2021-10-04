@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify">I am a Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>. I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors.</p>
-  
+<p align="justify">I am a Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>. I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors. Find my full CV <a href="/files/remiroazocar_CV_oct21.pdf">here</a>.</p>  
+
 <p align="justify">Previously (2018-2021), I conducted doctoral research at the <a href="https://www.ucl.ac.uk/statistics/">Department of Statistics, University College London</a>, where I worked with <a href="http://www.statistica.it/gianluca/">Professor Gianluca Baio</a> and <a href="https://sites.google.com/site/annaheathstats/">Professor Anna Heath</a> in the <a href="https://egon.stats.ucl.ac.uk/research/statistics-health-economics/">Statistics for Health Economic Evaluation</a> research group.</p> 
   
 <p align="justify">During this time, I provided statistical support to contract research organizations such as <a href="https://www.iqvia.com/">IQVIA</a> and <a href="https://www.iconplc.com/">ICON plc</a>, and public bodies such as <a href="https://www.sickkids.ca/">SickKids</a>; and taught statistics modules and workshops at the <a href="https://www.lse.ac.uk/statistics">London School of Economics</a> and <a href="https://www.ucl.ac.uk/statistics/">University College London</a>. Past projects include the development of methodological guidelines and the submission of evidence dossiers to health technology assessment agencies. I played a vital role in the success of these submissions by constructing a sound and well-supported statistical case.</p> 
