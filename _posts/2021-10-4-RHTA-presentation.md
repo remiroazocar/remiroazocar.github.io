@@ -7,7 +7,7 @@ title: R for HTA showcase
   
 <p align="justify">In a nutshell, the treatment coefficient of a multivariable regression of outcome on treatment and covariates often informs average effectiveness in HTA. However, this has a conditional interpretation, as opposed to the population-level interpretation that is required for reimbursement decisions made by HTA bodies.</p>
   
-<p align="justify">The presentation addresses a specific scenario, involving the marginalization of covariate-adjusted treatment effects in pairwise indirect treatment comparisons. In this case, marginalization over the target covariate distribution is required for compatibile comparisons that avoid bias.</p>   
+<p align="justify">The presentation addresses a specific scenario, involving the marginalization of covariate-adjusted treatment effects in pairwise indirect treatment comparisons. In this case, marginalization over the target covariate distribution is required for compatible comparisons that avoid bias.</p>   
   
 <p align="justify">The slides are available <a href="https://r-hta.org/events/workshop/2021/remiro-azocar.pdf">here</a>. <a href="https://www.youtube.com/watch?v=qkmGTBNnoRg">Youtube link</a>.</p>
     
