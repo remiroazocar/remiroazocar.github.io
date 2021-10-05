@@ -11,5 +11,4 @@ permalink: /research/
 
 <p align="justify">See my <a href="https://scholar.google.co.uk/citations?user=B1kFX0MAAAAJ&hl=en">Google Scholar profile</a> for an updated list of publications.</p>  
 
-<p align="justify">ORCID: <a href="https://orcid.org/my-orcid?orcid=0000-0002-2877-2315">0000-0002-2877-2315</a>
-   
+<p align="justify">ORCID: <a href="https://orcid.org/0000-0002-2877-2315">0000-0002-2877-2315</a>
