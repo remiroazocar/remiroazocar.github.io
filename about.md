@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify">I am a Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>. I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors. Find my full CV <a href="/files/remiroazocar_CV_oct21.pdf">here</a>.</p>  
+<p align="justify">I am a Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>, specializing in health technology assessment (HTA), and health economics and outcomes research (HEOR). I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors. Find my full CV <a href="/files/remiroazocar_CV_oct21.pdf">here</a>.</p>  
 
 <p align="justify">Previously (2018-2021), I conducted doctoral research at the <a href="https://www.ucl.ac.uk/statistics/">Department of Statistics, University College London</a>, where I worked with <a href="http://www.statistica.it/gianluca/">Professor Gianluca Baio</a> and <a href="https://sites.google.com/site/annaheathstats/">Professor Anna Heath</a> in the <a href="https://egon.stats.ucl.ac.uk/research/statistics-health-economics/">Statistics for Health Economic Evaluation</a> research group.</p> 
   
