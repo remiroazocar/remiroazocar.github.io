@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<p align="justify">My research lies on the interface between statistics and health technology assessment, involving both methodological and applied problems. My primary interest is the development of statistical methodology to compare treatments in the absence of head-to-head clinical trials. Particularly, in adjusting for differences in patient populations.</p> 
+<p align="justify">My research lies on the interface between statistics and health technology assessment, involving both methodological and applied problems. My primary interests are the development of statistical methodology to compare treatments in the absence of head-to-head clinical trials, adjusting for differences in patient populations and overcoming limited access to subject-level data.</p> 
   
 <p align="justify"><i>Themes: biostatistics, applied statistics, health technology assessment, evidence synthesis, health economic evaluation</i></p>
 
