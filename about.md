@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify">I am Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>, specializing in health technology assessment (HTA), health economics and outcomes research (HEOR), and observational studies. I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors.</p>  
+<p align="justify">I am Lead Medical Affairs Statistician at <a href="https://pharma.bayer.com/">Bayer Pharmaceuticals</a>, specializing in health technology assessment (HTA), health economics and outcomes research (HEOR), and observational science. I have ample experience acting as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors.</p>  
 
 <p align="justify">Prior to my current role, I provided support on the statistical aspects of evidence synthesis, HTA and HEOR to contract research organizations such as <a href="https://www.iqvia.com/">IQVIA</a> and <a href="https://www.iconplc.com/">ICON plc</a>, and public bodies such as <a href="https://www.sickkids.ca/">SickKids</a>. I have taught statistics modules and workshops at the <a href="https://www.lse.ac.uk/statistics">London School of Economics</a> and <a href="https://www.ucl.ac.uk/statistics/">University College London</a>.</p>   
   
