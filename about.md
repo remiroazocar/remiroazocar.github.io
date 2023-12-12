@@ -10,7 +10,7 @@ permalink: /about/
   
 <p align="justify">From 2018-2021, I conducted doctoral research at the <a href="https://www.ucl.ac.uk/statistics/">Department of Statistics, University College London</a>, where I worked with <a href="http://www.statistica.it/gianluca/">Professor Gianluca Baio</a> and <a href="https://sites.google.com/site/annaheathstats/">Professor Anna Heath</a> in the <a href="https://egon.stats.ucl.ac.uk/research/statistics-health-economics/">Statistics for Health Economic Evaluation</a> research group. I have master's degrees in <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/">Machine Learning</a> and <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/financial-computing-mres-mphil-phd">Financial Computing</a> from the <a href="http://www.cs.ucl.ac.uk">Department of Computer Science, University College London</a>, and hold an undergraduate degree in Mathematics and Physics from the <a href="https://www.bath.ac.uk/">University of Bath</a>.</p>
 
-You may find my CV [here](http://remiroazocar.com/remiroazocar_CV.pdf).
+You may find my CV [here](http://remiroazocar.com/Antonio_RemiroAzocar_CV_latest.pdf).
 
 ### Contact me
 
